@@ -117,14 +117,14 @@ button {
 
 .login{
   position: absolute;
-  top: 62%;
-  left: 61%;
+  top: 65%;
+  left: 62%;
   transform: translate(-50%, -50%);
   font-size: 15px;
   font-weight: bold;
   display: block;
-  width: 85px;
-  height: 40px;
+  width: 100px;
+  height: 60px;
   text-align: center;
   z-index: 3;
   background-color:rgb(3, 121, 238);
