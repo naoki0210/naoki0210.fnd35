@@ -135,9 +135,9 @@ button {
 /* メイン画像*/
 .hero > .hero-img {
   position: absolute;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  width: auto;
+  height: 105%;
+  overflow: hidden;
   z-index: 1;
 }
 
