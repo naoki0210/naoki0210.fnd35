@@ -232,10 +232,6 @@ button {
   margin: 0 auto;
 }
 
-/*2つのグリッド*/
-.grid-col-2 > .grid-item {
-  width: 50%;
-}
 /*3つのグリッド*/
 .grid-col-3 > .grid-item {
   width: 33.3%;
@@ -256,7 +252,6 @@ button {
   .grid3, .grid-col-3{
     display: block;
   }
-  .grid-col-2 > .grid-item,
   .grid-col-3 > .grid-item,
   .grid-col-4 > .grid-item,
   .grid-col-5 > .grid-item {
